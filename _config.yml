@@ -9,7 +9,7 @@ name: Jennifer Miner
 description: Sharing my cancer stories
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/ribbon.png
+avatar: https://raw.githubusercontent.com/seacant/test_blog/master/images/ribbon.png
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram: https://www.instagram.com/pinkwarrior_2015/
+  instagram: pinkwarrior_2015
   linkedin:
   pinterest:
   rss: anything # just type anything here for a working RSS icon
